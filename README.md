@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-![1 NANO = $8.81](https://i.imgur.com/Ew1bLkT.png)
+![1 NANO = $1.90](https://i.imgur.com/3lxxZpq.png)
